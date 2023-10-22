@@ -19,3 +19,5 @@ I also learnt about Vim and other text editors.
 Git Clone to clone files
 
 Git push to push to the remote directories.
+
+I am trying to try the pull request on my github branch called feature. Though I have been made to understand that Merge request and pull request are the same, git pull and git merge are not to be confused with MR and PR.
